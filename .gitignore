@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+
+# Se algum projeto Power BI real for testado dentro deste kit por engano:
+*.pbix
+.reference/
