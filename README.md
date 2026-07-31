@@ -35,3 +35,7 @@ chat do VS Code) lado a lado.
 Este repositório é um **modelo/starter kit** — copie `.github/`, `.vscode/` e
 `templates/` para dentro do repositório real de cada domínio de Power BI. Detalhes em
 `LEIA-PRIMEIRO.md`, seção "Copiar o kit para o seu projeto real".
+
+## Validação e compatibilidade
+
+Consulte `docs/COMPATIBILITY.md`, `docs/PBIX-VALIDATION.md` e `examples/pbip-starter/` antes de usar o toolkit em um projeto real.
